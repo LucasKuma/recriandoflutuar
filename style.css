@@ -1,0 +1,71 @@
+body{
+  text-align: center;
+  color: #828282;
+}
+
+#main{
+  width: 540px;
+  margin: 0px auto 32px;
+}
+
+#mulherplaneta{
+  margin-bottom: 32px;
+  margin-top: 64px;
+}
+
+h1{
+  font-family: 'Dosis', sans-serif;
+  font-weight: normal;
+  color: #3F3D56;
+  margin-bottom: 16px;
+}
+
+h1 span{
+  font-weight: bold;
+  color: #EE24FF;
+}
+
+#txt1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  line-height: 22px;
+  margin-bottom: 32px;
+}
+
+#txt1 span2{
+  color: #3F3D56;
+}
+
+#txt2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  margin-bottom: 64px;
+}
+
+#footer{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.line{
+  width: 391px;
+  height: 0px;
+  border: 1px solid #ECEFF2;
+  margin: 0 auto 16px;
+}
+
+#footer a + a{
+  margin-left: 42px;
+}
+
+#footer a{
+  color: #3F3D56;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#onda{
+  position: relative;
+  top: 40.83px;
+  bottom: 0px;
+}
